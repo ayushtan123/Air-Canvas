@@ -7,9 +7,9 @@ Air Canvas is an interactive art project that allows you to paint in the air usi
 
 ## Features:
 
-- Seamless Color Selection: Choose from a variety of colors displayed in the header section, making color switching effortless.
-- Intuitive Drawing and Erasing: Draw with the tip of your index finger and erase with a swipe of your entire hand, offering a natural and fluid experience.
-- Real-time Canvas: Witness your artwork come to life as you move your hand, providing immediate visual feedback.
+- **Seamless Color Selection**: Choose from a variety of colors displayed in the header section, making color switching effortless.
+- **Intuitive Drawing and Erasing**: Draw with the tip of your index finger and erase with a swipe of your entire hand, offering a natural and fluid experience.
+- **Real-time Canvas**: Witness your artwork come to life as you move your hand, providing immediate visual feedback.
 
 ## Requirements:
 
