@@ -24,6 +24,8 @@ Air Canvas is an interactive art project that allows you to paint in the air usi
 ![image](https://github.com/ayushtan123/Air-Canvas/assets/121681555/22a7d6c3-5878-4df9-b7fc-7f7f8d5c2f73)
 
 ## Demo Video
-https://github.com/ayushtan123/Air-Canvas/assets/121681555/88127afc-0990-4cd0-87b2-8a04db8ea12f
+
+https://github.com/ayushtan123/Air-Canvas/assets/121681555/50764352-831d-4ce0-9ced-2442f04e3f10
+
 
 
